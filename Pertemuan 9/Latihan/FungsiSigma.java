@@ -1,3 +1,4 @@
+package Latihan;
 public class FungsiSigma {
     public static int evaluateEquation(int n, int x) {
         int sum = 0;

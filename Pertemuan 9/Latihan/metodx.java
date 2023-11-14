@@ -1,3 +1,4 @@
+package Latihan;
 public class metodx {
     // Fungsi 
     public double luas_lingkaran(int diameter){
